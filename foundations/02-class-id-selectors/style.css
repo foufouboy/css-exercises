@@ -1,0 +1,18 @@
+body > *:nth-child(odd) {
+    font-family: "Verdana", "DejaVu", "Sans", sans-serif;
+    background: #ffa7a7;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    background: lightgreen;
+    font-weight: bold;
+}
+
+.font-twenty-four {
+    font-size: 24px;
+}
